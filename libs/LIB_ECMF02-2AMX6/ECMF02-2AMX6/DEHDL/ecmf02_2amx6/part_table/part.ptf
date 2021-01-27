@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ECMF02_2AMX6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ECMF02-2AMX6" (!) = "", "SON50P150X170X55-6N-D", "Small Outline No-lead", "511-ECMF02-2AMX6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ECMF02-2AMX6/?qs=raAh8RbVwI65u5gmT42%2Flg%3D%3D", "ECMF02-2AMX6", "https://www.arrow.com/en/products/ecmf02-2amx6/stmicroelectronics", "Common Mode Filter & ESD Prot. USB uQFN6 STMicroelectronics ECMF02 Series, Signal Filter, 200mA uQFN SMD, Flat Contact Termination, 1.8 x 1.6 x 0.5mm", "http://www.st.com/content/ccc/resource/technical/document/datasheet/3a/28/cf/d0/31/63/48/8c/CD00282307.pdf/files/CD00282307.pdf/jcr:content/translations/en.CD00282307.pdf", "0.55 mm"
+END_PART
+
+END.

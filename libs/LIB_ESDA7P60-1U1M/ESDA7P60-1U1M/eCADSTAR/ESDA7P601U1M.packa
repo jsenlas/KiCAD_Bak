@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESDA7P60-1U1M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-09-19-16:35:05)
+    (mountForm default
+        (footprintRef "ESDA7P601U1M")
+        (spec "System")
+    )
+)

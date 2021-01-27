@@ -1,0 +1,18 @@
+.ADS1115IRUGR :1 ;Analog to Digital Converters - ADC 16B ADC w/ Int MUX PGA Comp Osc & Ref
+ADS1115IRUGR
+*STM IC
+*NGS
+*PLB 1="ADDR" 2="ALERT/RDY" 3="GND" 4="AIN0" 5="AIN1" 6="AIN2" 7="AIN3" 8="VDD" 9="SDA" 10="SCL"
+*MXP 10
+*DFN ADS1115IRUGR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (ADS1115IRUGR)
+~!Mouser Part Number (595-ADS1115IRUGR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1115IRUGR?qs=IK5e5L0zOXhqw%2F8AHSSbuA%3D%3D)
+~!Arrow Part Number (ADS1115IRUGR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ads1115irugr/texas-instruments)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/ads1115.pdf?ts=1601235703022&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS1115%253FkeyMatch%253DADS1115IRUGR%2526tisearch%253DSearch-EN-everything%2526usecase%253DOPN)
+~!Height (0.4mm)
+~!3D_Model (ADS1115IRUGR)
+ADS1115IRUGR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

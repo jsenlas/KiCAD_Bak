@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DEA162450BT1295A1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DEA162450BT1295A1")
+        (spec "default")
+    )
+)

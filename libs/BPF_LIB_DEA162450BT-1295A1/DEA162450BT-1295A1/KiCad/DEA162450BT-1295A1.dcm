@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DEA162450BT-1295A1
+D Signal Conditioning FILTER BANDPASS 2.45GHz WLAN SMD
+K
+F https://product.tdk.com/info/en/documents/data_sheet/rf_bpf_dea162450bt-1295a1_en.pdf
+$ENDCMP
+#
+#End Doc Library

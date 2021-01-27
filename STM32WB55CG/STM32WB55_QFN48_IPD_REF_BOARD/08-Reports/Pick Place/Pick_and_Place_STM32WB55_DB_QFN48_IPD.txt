@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\laurym\Documents\MCD_Appli\DORY\Boards\STM32WB55_Application_Boards\STM32WB55_DB_QFN48_IPD\04-OUTPUTS\08-Reports\Pick Place\Pick_and_Place_STM32WB55_DB_QFN48_IPD.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/09/18
+Time:       13:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer       Footprint               Center-X(mm) Center-Y(mm) Rotation Description                            
+FLT1       IPD                  TopLayer    IPD                     15.2580      29.2700      360      IPD                                    
+D1         BAT54K               TopLayer    SOD523                  23.9014      23.6474      90       "Schottky Diode"                       
+CN2        HEADER_1X13          BottomLayer Header_F_1x13x2.54_TH_V 27.7000      19.3600      270      ""                                     
+Label_1    LOGO_ST              TopLayer    LOGO_ST_Size3           -113.0410    -152.3920    360      ""                                     
+X2         NX2012_32K768        TopLayer    NX2012_2P               21.4630      21.7304      90       "Crystal NDK 2.0x1.2mm  32.768 KHz"    
+X1         NX2016_32M           TopLayer    NX2016_4P               10.6144      27.6300      0        "Crystal NDK 2.0x1.6mm  32 MHz"        
+R2         10K                  TopLayer    0402_RES                22.9870      18.8214      270      Resistor                               
+R1         100K                 TopLayer    0402_RES                24.8920      23.8506      270      Resistor                               
+Label_4    LOGO_ROHS            TopLayer    SYMBOL_RoHS_China       -113.0410    -152.3920    0        ""                                     
+Label_2    LOGO_ROHS            BottomLayer SYMBOL_RoHS             -113.0410    -152.3920    180      ""                                     
+L3         IND_FCM1608KF-601T03 TopLayer    0603_COIL               23.1010      27.9860      270      ""                                     
+L2         10uH                 TopLayer    0805_COIL_H0.85         7.9370       25.0600      180      "Coil Murata 10uH ref: LQM21FN100M70L" 
+C10        100nF                TopLayer    0402_CAP_NPOL           23.7010      25.9860      360      "Capacitor_not polarized"              
+C9         100nF                TopLayer    0402_CAP_NPOL           15.5956      18.2118      180      "Capacitor_not polarized"              
+C5         100nF                TopLayer    0402_CAP_NPOL           19.6900      18.6600      360      "Capacitor_not polarized"              
+C15        4.3pF                TopLayer    0402_CAP_NPOL           23.5352      22.1234      360      "Capacitor_not polarized"              
+C14        4.3pF                TopLayer    0402_CAP_NPOL           23.5310      21.0312      360      "Capacitor_not polarized"              
+C6         100nF                TopLayer    0402_CAP_NPOL           17.4700      29.6000      90       "Capacitor_not polarized"              
+C7         100nF                TopLayer    0402_CAP_NPOL           12.3100      18.8300      270      "Capacitor_not polarized"              
+C16        100nF                TopLayer    0402_CAP_NPOL           22.8092      23.8252      90       "Capacitor_not polarized"              
+C2         100pF                TopLayer    0402_CAP_NPOL           13.6600      29.2700      270      "Capacitor_not polarized"              
+C1         100nF                TopLayer    0402_CAP_NPOL           12.6500      29.2800      270      "Capacitor_not polarized"              
+J1         SMA_T_9.52_NF        TopLayer    SMA_T_9.52_NF           15.0000      37.9095      90       ""                                     
+C13        4.7uF                TopLayer    0402_CAP_NPOL           11.5729      24.1510      90       "Capacitor_not polarized"              
+C11        4.7uF                TopLayer    0402_CAP_NPOL           10.0900      20.9800      270      "Capacitor_not polarized"              
+CN1        HEADER_1X13          BottomLayer Header_F_1x13x2.54_TH_V 2.3000       19.3600      270      ""                                     
+SB1        Open                 TopLayer    SB-tiny                 6.7298       20.4920      270      "Solder Jumper"                        
+U1         STM32WBxx_QFN48      TopLayer    STM32WBxx_QFN48         16.2490      23.7870      180      ""                                     
+C8         100nF                TopLayer    0402_CAP_NPOL           21.0460      19.6850      180      "Capacitor_not polarized"              
+SB2        Open                 TopLayer    SB-tiny                 24.3800      19.8374      180      "Solder Jumper"                        
+Label_3    LOGO_ST              BottomLayer LOGO_ST_Size3           -113.0410    -152.3920    180      ""                                     
+C12        100nF                TopLayer    0402_CAP_NPOL           11.2240      20.9700      270      "Capacitor_not polarized"              

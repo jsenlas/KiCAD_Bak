@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DEA162450BT-1295A1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-21-08:12:27)
+    (mountForm default
+        (footprintRef "DEA162450BT1295A1")
+        (spec "System")
+    )
+)

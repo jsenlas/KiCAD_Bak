@@ -1,0 +1,18 @@
+.ECMF02-2AMX6 :1 ;Common Mode Filter & ESD Prot. USB uQFN6 STMicroelectronics ECMF02 Series, Signal Filter, 200mA uQFN SMD, Flat Contact Termination, 1.8 x 1.6 x 0.5mm
+SON50P150X170X55-6N-D
+*STM IC
+*NGS
+*PLB 1="D_1" 2="D_2" 3="GND" 4="NC" 5="D-" 6="D+"
+*MXP 6
+*DFN ECMF02-2AMX6
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ECMF02-2AMX6)
+~!Mouser Part Number (511-ECMF02-2AMX6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ECMF02-2AMX6/?qs=raAh8RbVwI65u5gmT42%2Flg%3D%3D)
+~!Arrow Part Number (ECMF02-2AMX6)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ecmf02-2amx6/stmicroelectronics)
+~!Link Datasheet (http://www.st.com/content/ccc/resource/technical/document/datasheet/3a/28/cf/d0/31/63/48/8c/CD00282307.pdf/files/CD00282307.pdf/jcr:content/translations/en.CD00282307.pdf)
+~!Height (0.55mm)
+~!3D_Model (ECMF02-2AMX6)
+ECMF02-2AMX6
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ADS1115IRUGR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ADS1115IRUGR")
+        (spec "default")
+    )
+)

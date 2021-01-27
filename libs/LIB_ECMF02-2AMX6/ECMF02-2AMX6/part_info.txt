@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ECMF02-2AMX6
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=6
+Version=1.1
+Released=2018-02-02 15:41:24
+Downloaded=2021-01-27 11:40:04
+3D=Y

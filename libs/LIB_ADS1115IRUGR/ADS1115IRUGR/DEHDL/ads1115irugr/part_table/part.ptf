@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADS1115IRUGR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ADS1115IRUGR" (!) = "", "ADS1115IRUGR", "Other", "595-ADS1115IRUGR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1115IRUGR?qs=IK5e5L0zOXhqw%2F8AHSSbuA%3D%3D", "ADS1115IRUGR", "https://www.arrow.com/en/products/ads1115irugr/texas-instruments", "Analog to Digital Converters - ADC 16B ADC w/ Int MUX PGA Comp Osc & Ref", "https://www.ti.com/lit/ds/symlink/ads1115.pdf?ts=1601235703022&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS1115%253FkeyMatch%253DADS1115IRUGR%2526tisearch%253DSearch-EN-everything%2526usecase%253DOPN", "0.4 mm"
+END_PART
+
+END.

@@ -1,0 +1,190 @@
+*************************************************************
+FileName = STM32WB55_DB_QFN48_IPD.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1
+      File : STM32WB55_DB_QFN48_IPD.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Fiche Gerber
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : STM32WB55_DB_QFN48_IPD.GBL
+
+    Adding Layer      : L2
+
+    Adding Layer      : Fiche Gerber
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D24
+    D27
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : STM32WB55_DB_QFN48_IPD.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Fiche Gerber
+
+
+Used DCodes :
+    D24
+    D26
+    D30
+    D31
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : STM32WB55_DB_QFN48_IPD.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Fiche Gerber
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D30
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : STM32WB55_DB_QFN48_IPD.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Fiche Gerber
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D30
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : STM32WB55_DB_QFN48_IPD.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Fiche Gerber
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D30
+    D47
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : STM32WB55_DB_QFN48_IPD.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Fiche Gerber
+
+
+Used DCodes :
+    D24
+    D27
+    D30
+    D35
+    D58
+    D59
+*************************************************************
+

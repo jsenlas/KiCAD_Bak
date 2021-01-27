@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DEA162450BT_1295A1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "DEA162450BT-1295A1" (!) = "", "DEA162450BT1295A1", "Other", "810-DEA162450BT1295A", "https://www.mouser.co.uk/ProductDetail/TDK/DEA162450BT-1295A1/?qs=r5DSvlrkXmJWOg7G%2F4pSbg%3D%3D", "DEA162450BT-1295A1", "https://www.arrow.com/en/products/dea162450bt-1295a1/tdk", "Signal Conditioning FILTER BANDPASS 2.45GHz WLAN SMD", "https://product.tdk.com/info/en/documents/data_sheet/rf_bpf_dea162450bt-1295a1_en.pdf", "0.7 mm"
+END_PART
+
+END.

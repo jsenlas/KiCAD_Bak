@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ESDA7P60-1U1M
+PartCategory=Diode
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2018-09-19 16:35:05
+Downloaded=2021-01-27 12:26:43
+3D=Y

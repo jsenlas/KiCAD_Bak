@@ -1,0 +1,18 @@
+.DEA162450BT-1295A1 :1 ;Signal Conditioning FILTER BANDPASS 2.45GHz WLAN SMD
+DEA162450BT1295A1
+*STM FL
+*NGS
+*PLB 1="IN" 2="GND_1" 3="OUT" 4="GND_2"
+*MXP 4
+*DFN DEA162450BT-1295A1
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (DEA162450BT-1295A1)
+~!Mouser Part Number (810-DEA162450BT1295A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/DEA162450BT-1295A1/?qs=r5DSvlrkXmJWOg7G%2F4pSbg%3D%3D)
+~!Arrow Part Number (DEA162450BT-1295A1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/dea162450bt-1295a1/tdk)
+~!Link Datasheet (https://product.tdk.com/info/en/documents/data_sheet/rf_bpf_dea162450bt-1295a1_en.pdf)
+~!Height (0.7mm)
+~!3D_Model (DEA162450BT-1295A1)
+DEA162450BT-1295A1
+1.1!U 2.1!U 3.1!U 4.1!U 

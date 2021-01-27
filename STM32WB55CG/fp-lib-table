@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ST32_3D)(type KiCad)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD/libs/ul_STM32WB55CGU7/KiCAD/2021-01-21_15-27-07/footprints.pretty)(options "")(descr ""))
+)

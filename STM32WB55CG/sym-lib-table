@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name ST32)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/ul_STM32WB55CGU7/KiCAD/2021-01-21_15-27-07/2021-01-21_15-27-07.lib)(options "")(descr ""))
+  (lib (name ST32WB55CG)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/STM32WB55CG.lib)(options "")(descr ""))
+  (lib (name BPF)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/BPF_LIB_DEA162450BT-1295A1/DEA162450BT-1295A1/KiCad/DEA162450BT-1295A1.lib)(options "")(descr ""))
+  (lib (name USB_svab)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/USBLC6-2SC6/USBLC6-2SC6/KiCad/USBLC6-2SC6.lib)(options "")(descr ""))
+  (lib (name ADS1115)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ADS1115IRUGR/ADS1115IRUGR/KiCad/ADS1115IRUGR.lib)(options "")(descr ""))
+  (lib (name BNO055)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/Sensor_Motion.lib)(options "")(descr ""))
+  (lib (name mypower)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/power.lib)(options "")(descr ""))
+  (lib (name myanalog)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/Analog.lib)(options "")(descr ""))
+  (lib (name ECMUSB)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ECMF02-2AMX6/ECMF02-2AMX6/KiCad/ECMF02-2AMX6.lib)(options "")(descr ""))
+  (lib (name ESDA7p6)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ESDA7P60-1U1M/ESDA7P60-1U1M/KiCad/ESDA7P60-1U1M.lib)(options "")(descr ""))
+)

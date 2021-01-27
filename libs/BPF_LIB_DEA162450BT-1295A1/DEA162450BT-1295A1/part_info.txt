@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=DEA162450BT-1295A1
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2018-05-03 16:41:14
+Downloaded=2021-01-25 17:26:52
+3D=Y
