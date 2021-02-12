@@ -1,0 +1,18 @@
+.MLPF-WB55-01E3 :1 ;RF Wireless Misc 2.4 GHz Low Pass Filter matched to STM32WB55
+MLPFWB5501E3
+*STM FL
+*NGS
+*PLB 1="OUT" 2="GND4" 3="IN" 4="GND1" 5="GND2" 6="GND3"
+*MXP 6
+*DFN MLPF-WB55-01E3
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (MLPF-WB55-01E3)
+~!Mouser Part Number (511-MLPF-WB55-01E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MLPF-WB55-01E3?qs=vLWxofP3U2xV%2FkxL9PmCDA%3D%3D)
+~!Arrow Part Number (MLPF-WB55-01E3)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mlpf-wb55-01e3/stmicroelectronics)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/mlpf-wb55-01e3.pdf)
+~!Height (0.7mm)
+~!3D_Model (MLPF-WB55-01E3)
+MLPF-WB55-01E3
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

@@ -1,7 +1,8 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
-#SamacSys ECAD Model USBLC6-2SC6
-#/2219/412237/2.48/6/3/Integrated Circuit
+#
+# USBLC6-2SC6
+#
 DEF USBLC6-2SC6 IC 0 30 Y Y 1 F N
 F0 "IC" 1150 300 50 H V L CNN
 F1 "USBLC6-2SC6" 1150 200 50 H V L CNN
@@ -16,13 +17,13 @@ F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/USBLC6-2SC6/?qs=po
 F10 "USBLC6-2SC6" 1150 -700 50 H I L CNN "Arrow Part Number"
 F11 "https://www.arrow.com/en/products/usblc6-2sc6/stmicroelectronics" 1150 -800 50 H I L CNN "Arrow Price/Stock"
 DRAW
-X I/O1_1 1 0 0 200 R 50 50 0 0 P
-X GND 2 0 -100 200 R 50 50 0 0 P
-X I/O2_1 3 0 -200 200 R 50 50 0 0 P
-X I/O1_2 6 1300 0 200 L 50 50 0 0 P
-X VBUS 5 1300 -100 200 L 50 50 0 0 P
-X I/O2_2 4 1300 -200 200 L 50 50 0 0 P
 P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+X USB_O_D- 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X USB_O_D+ 3 0 -200 200 R 50 50 0 0 P
+X USB_I_D+ 4 1300 -200 200 L 50 50 0 0 P
+X VBUS 5 1300 -100 200 L 50 50 0 0 P
+X USB_I_D- 6 1300 0 200 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #

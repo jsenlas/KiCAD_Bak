@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLPF-WB55-01E3
+D RF Wireless Misc 2.4 GHz Low Pass Filter matched to STM32WB55
+K
+F https://www.st.com/resource/en/datasheet/mlpf-wb55-01e3.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "UB-MC5BR3-SDWP604-4S-TF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "UB-MC5BR3-SDWP604-4S-TF")
+        (spec "default")
+    )
+)

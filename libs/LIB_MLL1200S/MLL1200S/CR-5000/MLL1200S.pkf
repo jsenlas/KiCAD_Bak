@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MLL1200S"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MLL1200S")
+        (spec "default")
+    )
+)

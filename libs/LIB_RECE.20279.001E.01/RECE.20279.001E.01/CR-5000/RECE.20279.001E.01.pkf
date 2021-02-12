@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RECE_20279_001E_01"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RECE_20279_001E_01")
+        (spec "default")
+    )
+)

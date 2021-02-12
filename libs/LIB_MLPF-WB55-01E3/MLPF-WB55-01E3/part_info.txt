@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=MLPF-WB55-01E3
+PartCategory=Filter
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2019-04-26 13:18:27
+Downloaded=2021-02-08 12:05:35
+3D=Y

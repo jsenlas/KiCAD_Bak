@@ -419,6 +419,16 @@ K power-flag
 F ~
 $ENDCMP
 #
+$CMP USB_GND
+D Power symbol creates a global label with name "GND" , ground
+K power-flag
+$ENDCMP
+#
+$CMP USB_VDD
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
 $CMP VAA
 D Power symbol creates a global label with name "VAA"
 K power-flag

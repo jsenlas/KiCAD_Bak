@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=UB-MC5BR3-SDWP604-4S-TF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=1.1
+Released=2017-10-13 12:14:11
+Downloaded=2021-02-05 09:27:45
+3D=N

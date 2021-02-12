@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MLPF_WB55_01E3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "MLPF-WB55-01E3" (!) = "", "MLPFWB5501E3", "Other", "511-MLPF-WB55-01E3", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MLPF-WB55-01E3?qs=vLWxofP3U2xV%2FkxL9PmCDA%3D%3D", "MLPF-WB55-01E3", "https://www.arrow.com/en/products/mlpf-wb55-01e3/stmicroelectronics", "RF Wireless Misc 2.4 GHz Low Pass Filter matched to STM32WB55", "https://www.st.com/resource/en/datasheet/mlpf-wb55-01e3.pdf", "0.7 mm"
+END_PART
+
+END.

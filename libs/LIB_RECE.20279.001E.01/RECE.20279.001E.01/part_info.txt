@@ -1,0 +1,9 @@
+Manufacturer=Taoglas
+PartNumber=RECE.20279.001E.01
+PartCategory=Antenna
+PackageCategory=Other
+PinCount=3
+Version=1.1
+Released=2017-07-09 11:51:50
+Downloaded=2021-02-08 12:38:03
+3D=N

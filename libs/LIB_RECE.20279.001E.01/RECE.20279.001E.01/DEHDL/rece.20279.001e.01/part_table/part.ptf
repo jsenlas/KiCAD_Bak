@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RECE.20279.001E.01'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Taoglas", "RECE.20279.001E.01" (!) = "", "RECE.20279.001E.01", "Other", "N/A", "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA", "", "", "IPEX MHF Receptacle", "http://www.taoglas.com/wp-content/uploads/2016/04/RECE.20279.001E.01.pdf"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MLPF-WB55-01E3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-26-13:18:27)
+    (mountForm default
+        (footprintRef "MLPFWB5501E3")
+        (spec "System")
+    )
+)

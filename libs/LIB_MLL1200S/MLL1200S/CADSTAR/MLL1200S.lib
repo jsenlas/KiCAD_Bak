@@ -1,0 +1,18 @@
+.MLL1200S :1 ;TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD
+MLL1200S
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=MP1 5=MP2 6=MP3 7=MP4
+*PLB 1="NC" 2="COM" 3="NO" 4="GND_1" 5="GND_2" 6="GND_3" 7="GND_4"
+*MXP 9
+*DFN MLL1200S
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (MLL1200S)
+~!Mouser Part Number (506-MLL1200S)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D)
+~!Arrow Part Number (MLL1200S)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mll1200s/te-connectivity)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437575-1&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1437575-1)
+~!Height (1.75mm)
+MLL1200S
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

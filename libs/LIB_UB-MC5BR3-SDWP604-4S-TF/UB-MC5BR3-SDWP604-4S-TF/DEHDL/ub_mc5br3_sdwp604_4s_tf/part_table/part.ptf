@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UB_MC5BR3_SDWP604_4S_TF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "JST (JAPAN SOLDERLESS TERMINALS)", "UB-MC5BR3-SDWP604-4S-TF" (!) = "", "UB-MC5BR3-SDWP604-4S-TF", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/JST/UB-MC5BR3-SDWP604-4S-TF/?qs=Cb2nCFKsA8qNVD%252BCaWq1Jw%3D%3D", "", "", "JST (JAPAN SOLDERLESS TERMINALS) - UB-MC5BR3-SDWP604-4S-TF - MICRO USB CONN, TYPE B, RECEPTACLE, SMT", "http://www.farnell.com/datasheets/2280559.pdf"
+END_PART
+
+END.
