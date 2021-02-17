@@ -195,7 +195,7 @@ PULSONIX_LIBRARY_ASCII "SamacSys ECAD Model"
 		(attr "Manufacturer_Name" "TE Connectivity")
 		(attr "Manufacturer_Part_Number" "MLL1200S")
 		(attr "Mouser Part Number" "506-MLL1200S")
-		(attr "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D")
+		(attr "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D")
 		(attr "Arrow Part Number" "MLL1200S")
 		(attr "Arrow Price/Stock" "https://www.arrow.com/en/products/mll1200s/te-connectivity")
 		(attr "Description" "TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD")

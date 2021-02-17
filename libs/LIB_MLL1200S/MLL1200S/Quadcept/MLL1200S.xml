@@ -123,7 +123,7 @@
     <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="TE Connectivity" />
     <text name="Manufacturer_Part_Number" originx="1050" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MLL1200S" />
     <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="506-MLL1200S" />
-    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" />
     <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="MLL1200S" />
     <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.arrow.com/en/products/mll1200s/te-connectivity" />
   </component>

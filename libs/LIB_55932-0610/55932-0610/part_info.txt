@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=55932-0610
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=2.1
+Released=2017-10-27 12:14:34
+Downloaded=2021-02-15 20:57:11
+3D=Y

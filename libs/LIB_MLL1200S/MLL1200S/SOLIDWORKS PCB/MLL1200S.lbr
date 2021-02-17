@@ -150,7 +150,7 @@ Source: &lt;a href="https://www.te.com/commerce/DocumentDelivery/DDEController?A
 <attribute name="Manufacturer_Name" value="TE Connectivity" constant="no"/>
 <attribute name="Manufacturer_Part_Number" value="MLL1200S" constant="no"/>
 <attribute name="Mouser_Part_Number" value="506-MLL1200S" constant="no"/>
-<attribute name="Mouser_Price-Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" constant="no"/>
+<attribute name="Mouser_Price-Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" constant="no"/>
 <attribute name="Arrow_Part_Number" value="MLL1200S" constant="no"/>
 <attribute name="Arrow_Price-Stock" value="https://www.arrow.com/en/products/mll1200s/te-connectivity" constant="no"/>
 <attribute name="Description" value="TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD" constant="no"/>

@@ -151,7 +151,7 @@
           <Defn name="Mouser Part Number" val="506-MLL1200S"/>
         </SymbolUserProp>
         <SymbolUserProp>
-          <Defn name="Mouser Price/Stock" val="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D"/>
+          <Defn name="Mouser Price/Stock" val="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D"/>
         </SymbolUserProp>
         <SymbolUserProp>
           <Defn name="Arrow Part Number" val="MLL1200S"/>

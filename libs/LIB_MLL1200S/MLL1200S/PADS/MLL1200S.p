@@ -1,11 +1,11 @@
 *PADS-LIBRARY-PART-TYPES-V9*
 
 MLL1200S MLL1200S I SWI 9 1 0 0 0
-TIMESTAMP 2021.02.05.11.46.23
+TIMESTAMP 2021.02.16.19.41.41
 "Manufacturer_Name" TE Connectivity
 "Manufacturer_Part_Number" MLL1200S
 "Mouser Part Number" 506-MLL1200S
-"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D
 "Arrow Part Number" MLL1200S
 "Arrow Price/Stock" https://www.arrow.com/en/products/mll1200s/te-connectivity
 "Description" TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD

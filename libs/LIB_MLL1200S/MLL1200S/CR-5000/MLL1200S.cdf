@@ -19,7 +19,7 @@
     (property "Manufacturer_Name" "TE Connectivity")
     (property "Manufacturer_Part_Number" "MLL1200S")
     (property "Mouser_Part_Number" "506-MLL1200S")
-    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D")
     (property "Arrow_Part_Number" "MLL1200S")
     (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/mll1200s/te-connectivity")
     (property "Description" "TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD")

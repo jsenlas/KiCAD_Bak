@@ -1,9 +1,11 @@
 (fp_lib_table
   (lib (name ST32_3D)(type KiCad)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/ul_STM32WB55CGU7/KiCAD/2021-01-21_15-27-07/footprints.pretty)(options "")(descr ""))
-  (lib (name ADS1115)(type KiCad)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ADS1115IRUGR/ADS1115IRUGR)(options "")(descr ""))
+  (lib (name ADS1115)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ADS1115IRUGR/ADS1115IRUGR/KiCad/ADS1115IRUGR.mod)(options "")(descr ""))
   (lib (name 0Pretty)(type KiCad)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/Spypen.pretty)(options "")(descr ""))
   (lib (name microUSB)(type KiCad)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_UB-MC5BR3-SDWP604-4S-TF/UB-MC5BR3-SDWP604-4S-TF/KiCad)(options "")(descr ""))
   (lib (name USBRegulator)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_LD3985M33R/LD3985M33R/KiCad/LD3985M33R.mod)(options "")(descr ""))
   (lib (name RECE_antena_connector)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_RECE.20279.001E.01/RECE.20279.001E.01/KiCad/RECE.20279.001E.01.mod)(options "")(descr ""))
   (lib (name USB_data)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/USBLC6-2SC6/USBLC6-2SC6/KiCad/USBLC6-2SC6.mod)(options "")(descr ""))
+  (lib (name Molexkonektor)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_55932-0610/55932-0610/KiCad/55932-0610.mod)(options "")(descr ""))
+  (lib (name vypinac)(type Legacy)(uri /home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_MLL1200S/MLL1200S/KiCad/MLL1200S.mod)(options "")(descr ""))
 )

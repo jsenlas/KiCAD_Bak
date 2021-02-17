@@ -1,0 +1,18 @@
+.55932-0610 :1 ;Molex MICROCLASP Series, Series Number 55932, 2mm Pitch 6 Way 1 Row Straight PCB Header, Solder Termination, 3A
+"55932-0610"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 7
+*DFN 55932-0610
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (55932-0610)
+~!Mouser Part Number (538-55932-0610)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/55932-0610?qs=iFujUUZFeMIOtBrdbJdj4Q%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.molex.com/pdm_docs/sd/559320610_sd.pdf)
+~!Height (-)
+~!3D_Model (55932-0610)
+"55932-0610"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
