@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Crystal_GND3_Small
+D Three pin crystal, GND on pin 3, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
 $CMP USBLC6-2SC6
 D TVS Diode Array Uni-Directional USBLC6-2SC6 17V, SOT-23 6-Pin
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf
