@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MLL1200S
+#
+DEF MLL1200S S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "MLL1200S" 1050 200 50 H V L CNN
+F2 "MLL1200S" 1050 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437575-1&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1437575-1" 1050 0 50 H I L CNN
+F4 "TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD" 1050 -100 50 H I L CNN "Description"
+F5 "1.75" 1050 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MLL1200S" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "506-MLL1200S" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MLL1200S" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mll1200s/te-connectivity" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+X NC 1 0 0 200 R 50 50 0 0 P
+X COM 2 0 -100 200 R 50 50 0 0 P
+X NO 3 0 -200 200 R 50 50 0 0 P
+X GND_1 MP1 0 -300 200 R 50 50 0 0 P
+X GND_2 MP2 1200 0 200 L 50 50 0 0 P
+X GND_3 MP3 1200 -100 200 L 50 50 0 0 P
+X GND_4 MP4 1200 -200 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

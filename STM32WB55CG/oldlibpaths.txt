@@ -1,0 +1,17 @@
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/ul_STM32WB55CGU7/KiCAD/2021-01-21_15-27-07/2021-01-21_15-27-07.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/STM32WB55CG.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/BPF_LIB_DEA162450BT-1295A1/DEA162450BT-1295A1/KiCad/DEA162450BT-1295A1.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/USBLC6-2SC6/USBLC6-2SC6/KiCad/USBLC6-2SC6.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ADS1115IRUGR/ADS1115IRUGR/KiCad/ADS1115IRUGR.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/Sensor_Motion.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/power.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/Analog.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ECMF02-2AMX6/ECMF02-2AMX6/KiCad/ECMF02-2AMX6.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_ESDA7P60-1U1M/ESDA7P60-1U1M/KiCad/ESDA7P60-1U1M.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_LD3985M33R/LD3985M33R/KiCad/LD3985M33R.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_UB-MC5BR3-SDWP604-4S-TF/UB-MC5BR3-SDWP604-4S-TF/KiCad/UB-MC5BR3-SDWP604-4S-TF.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_MLL1200S/MLL1200S/KiCad/MLL1200S.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_MLPF-WB55-01E3/MLPF-WB55-01E3/KiCad/MLPF-WB55-01E3.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/LIB_RECE.20279.001E.01/RECE.20279.001E.01/KiCad/RECE.20279.001E.01.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/MyJumper.lib
+/home/jakub/VUT_FIT/bakalarka2.0/KiCAD_Bak/libs/Device.lib

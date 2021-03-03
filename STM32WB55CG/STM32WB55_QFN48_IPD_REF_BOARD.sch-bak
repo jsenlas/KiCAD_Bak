@@ -49,9 +49,9 @@ F 3 "" H 13900 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 15000 5650 2    50   Input ~ 0
-I2C_SCL
+I2C_SCL+
 Text GLabel 15000 5750 2    50   Input ~ 0
-I2C_SDA
+I2C_SDA-
 $Comp
 L power:GND #PWR065
 U 1 1 601B5656
@@ -568,9 +568,9 @@ Wire Wire Line
 Wire Wire Line
 	2350 6400 2950 6400
 Text GLabel 1250 10750 0    50   Input ~ 0
-I2C_SDA
+I2C_SDA-
 Text GLabel 1250 10650 0    50   Input ~ 0
-I2C_SCL
+I2C_SCL+
 Text Notes 4700 9925 0    50   ~ 0
 RF Bluetooth antenna
 Wire Wire Line
@@ -1323,25 +1323,6 @@ F 3 "" H 6250 10400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6250 10400 6100 10400
-$Comp
-L konektorAntennaaRECE:RECE.20279.001E.01 ed1
-U 1 1 603D98CC
-P 6650 10500
-F 0 "ed1" H 7050 10765 50  0000 C CNN
-F 1 "RECE.20279.001E.01" H 7050 10674 50  0000 C CNN
-F 2 "RECE_antena_connector:RECE.20279.001E.01" H 7300 10600 50  0001 L CNN
-F 3 "http://www.taoglas.com/wp-content/uploads/2016/04/RECE.20279.001E.01.pdf" H 7300 10500 50  0001 L CNN
-F 4 "IPEX MHF Receptacle" H 7300 10400 50  0001 L CNN "Description"
-F 5 "" H 7300 10300 50  0001 L CNN "Height"
-F 6 "Taoglas" H 7300 10200 50  0001 L CNN "Manufacturer_Name"
-F 7 "RECE.20279.001E.01" H 7300 10100 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "N/A" H 7300 10000 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA" H 7300 9900 50  0001 L CNN "Mouser Price/Stock"
-F 10 "" H 7300 9800 50  0001 L CNN "Arrow Part Number"
-F 11 "" H 7300 9700 50  0001 L CNN "Arrow Price/Stock"
-	1    6650 10500
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6650 10500 6100 10500
 $Comp
@@ -1715,9 +1696,9 @@ Wire Wire Line
 Wire Wire Line
 	13500 2550 13350 2550
 Text GLabel 13500 2450 0    50   Input ~ 0
-I2C_SCL
+I2C_SCL+
 Text GLabel 13500 2350 0    50   Input ~ 0
-I2C_SDA
+I2C_SDA-
 $Comp
 L power:+3V3 #PWR047
 U 1 1 60D83125
@@ -2015,9 +1996,9 @@ Wire Notes Line
 Wire Notes Line
 	600  11100 11650 11100
 Text GLabel 12450 8300 2    50   Input ~ 0
-I2C_SCL
+I2C_SCL+
 Text GLabel 12450 8400 2    50   Input ~ 0
-I2C_SDA
+I2C_SDA-
 Text GLabel 12900 1650 0    50   Input ~ 0
 BNO055_RESET
 Text GLabel 12450 8650 2    50   Input ~ 0
@@ -2137,25 +2118,6 @@ F 1 "+3V3" H 9115 2323 50  0000 C CNN
 F 2 "" H 9100 2150 50  0001 C CNN
 F 3 "" H 9100 2150 50  0001 C CNN
 	1    9100 2150
-	1    0    0    -1  
-$EndComp
-$Comp
-L BOOTSwitch:MLL1200S S2
-U 1 1 604714A1
-P 9700 2250
-F 0 "S2" H 10300 2515 50  0000 C CNN
-F 1 "MLL1200S" H 10300 2424 50  0000 C CNN
-F 2 "vypinac:MLL1200S" H 10750 2350 50  0001 L CNN
-F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437575-1&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1437575-1" H 10750 2250 50  0001 L CNN
-F 4 "TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD" H 10750 2150 50  0001 L CNN "Description"
-F 5 "1.75" H 10750 2050 50  0001 L CNN "Height"
-F 6 "TE Connectivity" H 10750 1950 50  0001 L CNN "Manufacturer_Name"
-F 7 "MLL1200S" H 10750 1850 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "506-MLL1200S" H 10750 1750 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" H 10750 1650 50  0001 L CNN "Mouser Price/Stock"
-F 10 "MLL1200S" H 10750 1550 50  0001 L CNN "Arrow Part Number"
-F 11 "https://www.arrow.com/en/products/mll1200s/te-connectivity" H 10750 1450 50  0001 L CNN "Arrow Price/Stock"
-	1    9700 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2412,9 +2374,47 @@ U 1 1 60884A18
 P 8950 8850
 F 0 "Y1" H 8950 9075 50  0000 C CNN
 F 1 "NX2520SA-32MHz" H 8950 8984 50  0000 C CNN
-F 2 "" H 8950 8850 50  0001 C CNN
-F 3 "~" H 8950 8850 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm" H 8950 8850 50  0001 C CNN
+F 3 "https://www.mouser.sk/ProductDetail/NDK/NX2520SA-32000M-STD-CSW-2/?qs=%2Fha2pyFaduhUJxai0GMc4AhsTjxCJg0fyiRMxPSEYyVjVpBYLd4mpFd1d7Shc6ZUjEI%2FEEUUBVA%3D" H 8950 8850 50  0001 C CNN
 	1    8950 8850
+	1    0    0    -1  
+$EndComp
+$Comp
+L BOOTSwitch:MLL1200S S2
+U 1 1 604714A1
+P 9700 2250
+F 0 "S2" H 10300 2515 50  0000 C CNN
+F 1 "MLL1200S" H 10300 2424 50  0000 C CNN
+F 2 "vypinac:MLL1200S" H 10750 2350 50  0001 L CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437575-1&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1437575-1" H 10750 2250 50  0001 L CNN
+F 4 "TE CONNECTIVITY / ALCOSWITCH - MLL1200S - SLIDE SWITCH, SPDT, 0.3A, 4VDC, SMD" H 10750 2150 50  0001 L CNN "Description"
+F 5 "1.75" H 10750 2050 50  0001 L CNN "Height"
+F 6 "TE Connectivity" H 10750 1950 50  0001 L CNN "Manufacturer_Name"
+F 7 "MLL1200S" H 10750 1850 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "506-MLL1200S" H 10750 1750 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/MLL1200S/?qs=%252BHgkcFtPSlhaU4bDJZHWiQ%3D%3D" H 10750 1650 50  0001 L CNN "Mouser Price/Stock"
+F 10 "MLL1200S" H 10750 1550 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/mll1200s/te-connectivity" H 10750 1450 50  0001 L CNN "Arrow Price/Stock"
+	1    9700 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L konektorAntennaaRECE:RECE.20279.001E.01 ed1
+U 1 1 603D98CC
+P 6650 10500
+F 0 "ed1" H 7050 10765 50  0000 C CNN
+F 1 "RECE.20279.001E.01" H 7050 10674 50  0000 C CNN
+F 2 "RECE_antena_connector:RECE.20279.001E.01" H 7300 10600 50  0001 L CNN
+F 3 "http://www.taoglas.com/wp-content/uploads/2016/04/RECE.20279.001E.01.pdf" H 7300 10500 50  0001 L CNN
+F 4 "IPEX MHF Receptacle" H 7300 10400 50  0001 L CNN "Description"
+F 5 "" H 7300 10300 50  0001 L CNN "Height"
+F 6 "Taoglas" H 7300 10200 50  0001 L CNN "Manufacturer_Name"
+F 7 "RECE.20279.001E.01" H 7300 10100 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "N/A" H 7300 10000 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA" H 7300 9900 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 7300 9800 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 7300 9700 50  0001 L CNN "Arrow Price/Stock"
+	1    6650 10500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
